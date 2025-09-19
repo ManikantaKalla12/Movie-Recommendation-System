@@ -18,3 +18,6 @@ This is a simple Movie Recommendation System built using **Python, Pandas, Sciki
    git clone https://github.com/your-username/Movie-Recommendation-System.git
    cd Movie-Recommendation-System
 
+## Sample Output
+Recommendations for 'The Matrix':
+['The Matrix Reloaded', 'John Wick', 'Avengers: Endgame']
